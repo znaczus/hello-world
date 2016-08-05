@@ -1,3 +1,4 @@
+Zmiana 2
 # hello-world
 learning phase
 
